@@ -1,0 +1,47 @@
+body {
+    background-color: aliceblue;
+      margin: 20px;
+      display: flex;
+     justify-content: left;
+     font-family: sans-serif;
+    
+}
+
+.about {
+    border-style: groove;
+    border-width: 15px;
+    border-color: rgb(0, 0, 0);
+}
+
+.education {
+    border-style: groove;
+    border-width: 15px;
+    border-color: rgb(0, 0, 0)
+}
+
+.professional-skills{
+    border-style: groove;
+    border-width: 15px;
+    border-color: rgb(0, 0, 0);
+}
+
+.contact-info {
+border-style: groove;
+border-width: 15px;
+border-color: rgb(0, 0, 0);
+}
+
+
+.languages{
+    border-style: groove;
+    border-width: 15px;
+    border-color: rgb(0, 0, 0);
+}
+
+
+
+
+
+
+
+
